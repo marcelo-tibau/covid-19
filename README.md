@@ -1,5 +1,5 @@
 # covid-19
-Repository to keep tabs on the Covid-19's spreading in Brazil.
+Repository to keep tabs on the Covid-19 spreading in Brazil.
 
 It comprises data from World Health Organization (WHO) and was organized by [Our World in Data](https://ourworldindata.org/coronavirus-source-data). From March 18th to June 7th, 2020 I updated the data based on information provided by the [brazilian Ministry of Health](https://plataforma.saude.gov.br/novocoronavirus). From June 8th, 2020 to January 28th, 2023 my source was the media consortium (O Estado de S. Paulo, Extra, Folha, O Globo, G1 and UOL).
 
